@@ -1,7 +1,7 @@
 .backcolor{
     height: 800px;
     width: 200px,
-    background: blue;
+    background-color: blue;
     position: relative;
     left: 25vw;
     top: 0.1vh;
@@ -14,9 +14,7 @@
     background-color: #007acc;
     position: relative;
     left: 5vw;
-/*    transition: width 1s;
-    transition-timing-function: linear;
-    margin-bottom: 20px;*/
+
 }
 
 h1{
